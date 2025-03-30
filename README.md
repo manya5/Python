@@ -11,7 +11,7 @@ Welcome to **Manya's Python Projects Repository**! 🐍 This is a collection of 
 
 ### 🔥 Mini Projects
 - **Task Manager** 📝 – A CLI-based to-do application.
-- **Expense Tracker** 💰 – Simple financial tracking system.
+- **Hotel Management System** 💰 – Simple booking and tracking expenses system.
 - **Banking System** 🏦 – Manage accounts and transactions.
 - **Library Management System** 📚 – Organize books efficiently.
 - **Contact Book** 📞 – Save and search contacts easily.
