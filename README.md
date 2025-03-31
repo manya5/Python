@@ -13,7 +13,7 @@ Welcome to **Manya's Python Projects Repository**! 🐍 This is a collection of 
 - **Task Manager** 📝 – A CLI-based to-do application.
 - **Hotel Management System** 💰 – Simple booking and tracking expenses system.
 - **Banking System** 🏦 – Manage accounts and transactions.
-- **Library Management System** 📚 – Organize books efficiently.
+- **ATM Simultaneous** 📚 – Enables customers to perform financial transactions.
 - **Contact Book** 📞 – Save and search contacts easily.
 
 ### ⚡ Automation & Utility Scripts
